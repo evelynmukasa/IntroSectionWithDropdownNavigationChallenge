@@ -12059,7 +12059,7 @@ h1, .h1 {
 }
 @media (min-width: 992px) {
   .paragraph {
-    margin: 5% 14% 5% 20%;
+    margin: 5% 25% 5% 20%;
   }
 }
 .socialLink {
@@ -12089,6 +12089,7 @@ h1, .h1 {
   .CTA {
     padding: 13px 25px;
     margin-left: 20%;
+    margin-top: 5%;
   }
 }
 .socialLink:nth-child(2) {
@@ -12107,7 +12108,7 @@ h1, .h1 {
 @media (min-width: 992px) {
   .socialRow {
     margin-left: 17%;
-    margin-top: 3%;
+    margin-top: 12%;
   }
   .socialLink:nth-child(1) {
     width: 90px;
