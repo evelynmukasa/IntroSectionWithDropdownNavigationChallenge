@@ -16,7 +16,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -35,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/introsectionwithdropdownnavigationchallenge-yu0Wh8Ql1D)
+- Live Site URL: [ intro-section-with-dropdown-navigation-challenge](https://intro-section-with-dropdown-navigation-challenge.vercel.app/)
 
 ## My process
 I first downloaded the starter file from the Frontend Mentor website. Then, I initialized the project with Bootstrap. After that, I started ordering the HTML markup according to the order of each element. Then, I went back and forth between my stylesheet and index.html, styling the page as requested.
